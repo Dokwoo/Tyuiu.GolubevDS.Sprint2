@@ -43,7 +43,7 @@ namespace Tyuiu.GolubevDS.Sprint2.Task1.V3
 
             for (int i = 0; i < 6; i++);
             {
-                Console.WriteLine(res[i]);
+                Console.WriteLine(res[1]);
             }
             Console.ReadKey();
         }
